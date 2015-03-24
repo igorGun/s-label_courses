@@ -36,9 +36,9 @@ $c2=count($arr2);
 for ($i=0; $i < $c1; $i++) { 
 		for ($j=0; $j < $c2; $j++) { 
 		
-		if ($arr1[$i]<$arr2[$j] && $arr1[$i]!=$arr2[$j]) {
+		if ($arr1[$i]<$arr2[$j]  {
 			
-			$arr2[]=$arr1[$i];
+			//$arr2[]=$arr1[$i];
 			//echo $arr2[$j].'<br>';	
 		}
 }
